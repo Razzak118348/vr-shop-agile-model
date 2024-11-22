@@ -4,4 +4,4 @@ Flexibility: Agile allows for changes in requirements based on user feedback and
 Iterative Development: Features like virtual navigation, try-ons, and payments can be developed incrementally in sprints.
 Customer-Centric Approach: Regular user involvement ensures the product meets expectations.
 Rapid Delivery: Functional components are delivered at the end of each sprint for early testing and feedback.
-Using Agile ensures that Shop360 evolves iteratively, staying aligned with stakeholder goals and providing a high-quality user experience.
+Using Agile model ensures that Shop360 evolves iteratively, staying aligned with stakeholder goals and providing a high-quality user experience .

@@ -1,9 +1,16 @@
 # Virtual Reality (VR) Shopping Platform: Shop360
 ![Shop360 Banner](https://raw.githubusercontent.com/Razzak118348/vr-shop-agile-model/refs/heads/main/banner.webp)
-]
+
 **Shop360** is an innovative Virtual Reality (VR) Shopping Platform designed to revolutionize the e-commerce experience. This platform enables users to explore immersive virtual stores, try on products, and make secure purchases, all within a VR environment. 
 
 The **Agile Software Development Model** is employed to ensure flexibility, rapid development, and user-focused iterative improvements.
+
+---
+
+## System Design
+![System Architecture](https://raw.githubusercontent.com/Razzak118348/vr-shop-agile-model/refs/heads/main/vr-for-shopping.webp)
+
+This image shows the system design for integrating VR with real-time product data, payment gateways, and user profiles.
 
 ---
 

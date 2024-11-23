@@ -1,29 +1,44 @@
+<div align="center">
+
 ![Shop360 Header Image](HSTU.png)
 
-# Virtual Reality (VR) Shopping Platform: Shop360  
+# **Virtual Reality (VR) Shopping Platform: Shop360**
 
-A Project submitted to the Department of Computer Science and Engineering,  
-Hajee Mohammad Danesh Science and Technology University  
+---
 
-**Course Title**: Software Engineering  
-**Course Code**: CSE 305  
+### **A Project Submitted to the Department of Computer Science and Engineering**  
+**Hajee Mohammad Danesh Science and Technology University**  
 
-## Submitted To  
+---
+
+### **Course Title**: Software Engineering  
+### **Course Code**: CSE 305  
+
+---
+
+### **Submitted To**  
 **Pankaj Bhowmik**  
-Lecturer  
+*Lecturer*  
 Department of Computer Science and Engineering  
 
-## Submitted By  
-**Abdur Razzak**  
-- Student ID: 2102042  
-- Level 3, Semester I  
+---
 
-## Institution  
+### **Submitted By**  
+**Abdur Razzak**  
+- *Student ID*: 2102042  
+- *Level*: 3  
+- *Semester*: I  
+
+---
+
+### **Institution**  
 **Department of Computer Science and Engineering**  
 Hajee Mohammad Danesh Science and Technology University  
 Dinajpur-5200, Bangladesh  
 
+---
 
+</div>
 
 # Virtual Reality (VR) Shopping Platform: Shop360
 ![Shop360 Banner](https://raw.githubusercontent.com/Razzak118348/vr-shop-agile-model/refs/heads/main/banner.webp)
